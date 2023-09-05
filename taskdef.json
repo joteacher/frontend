@@ -29,7 +29,7 @@
       "memoryReservation": null,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "466324222409.dkr.ecr.ap-northeast-2.amazonaws.com/facam-frontend",
+      "image": "466324222409.dkr.ecr.ap-northeast-2.amazonaws.com/frontend",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
